@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <script src= "wasm_worker.js">
-        
-        </script>
-    </head>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello World - Rust</title>
+    <link rel="preload" href="./wasm_worker.js" as="script" />
+  </head>
+  <body>
+    <script type="module" src="./wasm_worker.js"></script>
+  </body>
 </html>
