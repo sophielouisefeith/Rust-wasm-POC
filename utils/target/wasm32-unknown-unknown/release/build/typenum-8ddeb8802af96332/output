@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/sophielouisefeith/Desktop/tryout/WASM/Rust-wasm-POC/utils/target/wasm32-unknown-unknown/release/build/typenum-8ddeb8802af96332/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/sophielouisefeith/Desktop/tryout/WASM/Rust-wasm-POC/utils/target/wasm32-unknown-unknown/release/build/typenum-8ddeb8802af96332/out/op.rs

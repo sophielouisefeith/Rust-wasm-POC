@@ -1,0 +1,10 @@
+/Users/sophielouisefeith/Desktop/tryout/WASM/Rust-wasm-POC/utils/target/wasm32-unknown-unknown/release/deps/ppv_lite86-4cf2c89afed3558b.rmeta: /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/lib.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/soft.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/types.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/generic.rs
+
+/Users/sophielouisefeith/Desktop/tryout/WASM/Rust-wasm-POC/utils/target/wasm32-unknown-unknown/release/deps/libppv_lite86-4cf2c89afed3558b.rlib: /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/lib.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/soft.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/types.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/generic.rs
+
+/Users/sophielouisefeith/Desktop/tryout/WASM/Rust-wasm-POC/utils/target/wasm32-unknown-unknown/release/deps/ppv_lite86-4cf2c89afed3558b.d: /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/lib.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/soft.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/types.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/generic.rs
+
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/lib.rs:
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/soft.rs:
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/types.rs:
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.15/src/generic.rs:

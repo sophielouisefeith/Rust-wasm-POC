@@ -1,0 +1,10 @@
+/Users/sophielouisefeith/Desktop/tryout/WASM/Rust-wasm-POC/utils/target/wasm32-unknown-unknown/release/deps/dusk_jubjub-04a510634230545b.rmeta: /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/lib.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/util.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/fr.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/elgamal.rs
+
+/Users/sophielouisefeith/Desktop/tryout/WASM/Rust-wasm-POC/utils/target/wasm32-unknown-unknown/release/deps/libdusk_jubjub-04a510634230545b.rlib: /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/lib.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/util.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/fr.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/elgamal.rs
+
+/Users/sophielouisefeith/Desktop/tryout/WASM/Rust-wasm-POC/utils/target/wasm32-unknown-unknown/release/deps/dusk_jubjub-04a510634230545b.d: /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/lib.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/util.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/fr.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/elgamal.rs
+
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/lib.rs:
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/util.rs:
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/fr.rs:
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-jubjub-0.10.1/src/elgamal.rs:

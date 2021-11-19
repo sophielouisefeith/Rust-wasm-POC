@@ -1,0 +1,10 @@
+/Users/sophielouisefeith/Desktop/tryout/WASM/Rust-wasm-POC/utils/target/debug/deps/dusk_bytes-20a4ddf6b1e99273.rmeta: /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/lib.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/errors.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/parse.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/primitive.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/serialize.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/../README.md
+
+/Users/sophielouisefeith/Desktop/tryout/WASM/Rust-wasm-POC/utils/target/debug/deps/dusk_bytes-20a4ddf6b1e99273.d: /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/lib.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/errors.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/parse.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/primitive.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/serialize.rs /Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/../README.md
+
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/lib.rs:
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/errors.rs:
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/parse.rs:
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/primitive.rs:
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/serialize.rs:
+/Users/sophielouisefeith/.cargo/registry/src/github.com-1ecc6299db9ec823/dusk-bytes-0.1.5/src/../README.md:
