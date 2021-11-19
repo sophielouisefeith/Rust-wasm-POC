@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@webcrypto/storage": "^2.0.2"
+  }
+}
